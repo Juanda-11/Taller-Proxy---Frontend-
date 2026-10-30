@@ -15,4 +15,4 @@ npm run dev
 ```
 
 ## Despliegue (Vercel)
-Importar el repo en Vercel (preset Vite) y definir la variable de entorno `VITE_API_URL` con la URL pública del backend en Railway.
+Importar el repo en Vercel (preset Vite) y definir la variable de entorno `VITE_API_URL` con la URL pública del backend en Render (sin `/` al final).
